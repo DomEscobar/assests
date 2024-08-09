@@ -1,7 +1,5 @@
 # Free pixel asset set
 
-All free assets made by EWW
-
 ## How to create a character spritesheet ?
 
 ### Prepare
